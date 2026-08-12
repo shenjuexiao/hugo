@@ -1,10 +1,11 @@
-# Gohugo-Host-on-GitHub-Pages-cn.yml
+# Hugo-Host-on-GitHub-Pages-cn.yml
 # github.com/shenjuexiao
-# 20260801
+# 20260812
 
 # gohugo.io/host-and-deploy/host-on-github-pages/
 # hugo.opendocs.io/hosting-and-deployment/hosting-on-github/
 
+# .github/workflows/Hugo-Host-on-GitHub-Pages-cn.yml
 name: Build and deploy
 on:
   push:
